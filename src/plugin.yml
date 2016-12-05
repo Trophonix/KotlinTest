@@ -1,4 +1,4 @@
 name: KotlinTest
 author: Trophonix
-main: com.trophonix.kotlintest.HelloWorld
+main: com.trophonix.kotlintest.Main
 version: 1.0
