@@ -2,3 +2,7 @@ name: KotlinTest
 author: Trophonix
 main: com.trophonix.kotlintest.Main
 version: 1.0
+commands:
+  hello:
+    description: "Say hello to the server!"
+    usage: "/hello"
